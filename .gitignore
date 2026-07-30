@@ -1,0 +1,9 @@
+*.o
+*.exe
+matrix_ai_prototype
+
+outputs/*
+!outputs/.gitkeep
+
+.vscode/
+.idea/
